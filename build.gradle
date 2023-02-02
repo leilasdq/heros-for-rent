@@ -9,6 +9,7 @@ buildscript {
         junit_version = '4.13.2'
         junitExt_version = '1.1.5'
         espresso_version = '3.4.0'
+        logArbor_version = '1.39.84'
     }
 }
 
