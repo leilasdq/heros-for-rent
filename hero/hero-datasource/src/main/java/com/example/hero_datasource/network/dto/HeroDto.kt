@@ -1,5 +1,6 @@
-package com.example.hero_datasource.network
+package com.example.hero_datasource.network.dto
 
+import com.example.hero_datasource.network.BASE_URL
 import com.example.hero_domain.Hero
 import com.example.hero_domain.getHeroAttackType
 import com.example.hero_domain.getHeroAttrFromAbbreviation
